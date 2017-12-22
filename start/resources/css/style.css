@@ -1,0 +1,29 @@
+/*
+  Custom styles for Trackster App
+*/
+body {
+  font-size: 16px;
+
+}
+
+.header {
+  background-color: rgb(35, 2, 63);
+  height: 100px;
+}
+
+.row {
+  margin: auto;
+}
+h3 {
+  font-family: Righteous;
+  color: rgb(255, 0, 171);
+}
+
+.btn-sm {
+  background-color: rgb(255, 102,204);
+}
+
+.no-gutter {
+  margin-right: 0px;
+  margin-left: 0px;
+}
